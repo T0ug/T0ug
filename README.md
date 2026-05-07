@@ -1,48 +1,39 @@
-# Toug
-
-> building systems, workflows and weird ideas.
-
----
-
-Não sou um programador tradicional.
-
-Nunca fui o tipo de pessoa que aprendeu programação escrevendo tudo manualmente do zero.
-
-O caminho que segui foi diferente:
-usei IA como ferramenta principal para construir sistemas reais.
-
-Hoje meu foco normalmente está em:
-
-- arquitetura;
-- workflows;
-- automação;
-- documentação;
-- continuidade entre sessões;
-- transformação de processos reais em sistemas utilizáveis.
-
-Grande parte do código dos meus projetos foi gerada com auxílio de IA.
-
-Mas o que realmente gosto de fazer é:
+<table>
+<tr>
+<td>
 
 ```txt
-entender problemas → estruturar sistemas → definir fluxos → coordenar a construção
+████████╗ ██████╗ ██╗   ██╗ ██████╗
+╚══██╔══╝██╔═══██╗██║   ██║██╔════╝
+   ██║   ██║   ██║██║   ██║██║  ███╗
+   ██║   ██║   ██║██║   ██║██║   ██║
+   ██║   ╚██████╔╝╚██████╔╝╚██████╔╝
+   ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝
 ```
 
-Normalmente envolvendo:
+</td>
+<td>
 
-```txt
-Go · React · Tauri · PostgreSQL · Docker · TypeScript · Rust
+```bash
+toug@pipeline
+-------------------------
+ROLE: systems builder
+AI: primary development tool
+FOCUS: workflows & automation
+STACK: Go / React / Tauri / Docker
+ARCHITECTURE: modular systems
+DOCS: source of truth
+STATUS: active
+
+> understand problems
+> structure systems
+> coordinate workflows
+> build usable things
 ```
 
-A tecnologia normalmente é só o meio.
-
-O que eu realmente gosto é de transformar processos confusos em sistemas utilizáveis.
-
----
-
-<p align="center">
-  <img src="./assets/pipeline.png" width="100%" />
-</p>
+</td>
+</tr>
+</table>
 
 # Atualmente construindo
 
