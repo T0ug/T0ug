@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/fetch.png" width="100%" />
+  <img src="./assets/toug.png" width="100%" />
 </p>
 
 # Atualmente construindo
