@@ -1,40 +1,6 @@
-<table border="0">
-<tr border="0">
-<td border="0" valign="top">
-
-```txt
-████████╗ ██████╗ ██╗   ██╗ ██████╗
-╚══██╔══╝██╔═══██╗██║   ██║██╔════╝
-   ██║   ██║   ██║██║   ██║██║  ███╗
-   ██║   ██║   ██║██║   ██║██║   ██║
-   ██║   ╚██████╔╝╚██████╔╝╚██████╔╝
-   ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝
-```
-
-</td>
-
-<td border="0" valign="top">
-
-```bash
-toug@pipeline
--------------------------
-ROLE: systems builder
-AI: primary development tool
-FOCUS: workflows & automation
-STACK: Go / React / Tauri / Docker
-ARCHITECTURE: modular systems
-DOCS: source of truth
-STATUS: active
-
-> understand problems
-> structure systems
-> coordinate workflows
-> build usable things
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/fetch.png" width="100%" />
+</p>
 
 # Atualmente construindo
 
