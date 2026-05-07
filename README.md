@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td>
+<table border="0">
+<tr border="0">
+<td border="0" valign="top">
 
 ```txt
 ████████╗ ██████╗ ██╗   ██╗ ██████╗
@@ -12,7 +12,8 @@
 ```
 
 </td>
-<td>
+
+<td border="0" valign="top">
 
 ```bash
 toug@pipeline
