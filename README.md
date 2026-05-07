@@ -1,7 +1,3 @@
-# ```txt
-# $ whoami
-# ```
-
 # Toug
 
 > building systems, workflows and weird ideas.
@@ -45,13 +41,13 @@ O que eu realmente gosto é de transformar processos confusos em sistemas utiliz
 ---
 
 <p align="center">
-  <img src="./assets/banner_pipeline.png" width="100%" />
+  <img src="./assets/pipeline.png" width="100%" />
 </p>
 
 # Atualmente construindo
 
 <p align="center">
-  <img src="./assets/banner_gtin.png" width="100%" />
+  <img src="./assets/gtinpratico.png" width="100%" />
 </p>
 
 ## GTIN Prático
@@ -76,7 +72,7 @@ Tudo pensado para resolver problemas reais de cadastro fiscal e validação de p
 ---
 
 <p align="center">
-  <img src="./assets/banner_relatorios.png" width="100%" />
+  <img src="./assets/gerador de relatorio de notas.png" width="100%" />
 </p>
 
 ## Gerador de Relatórios de Notas
@@ -101,7 +97,7 @@ Foi um projeto focado muito mais em fluxo operacional e produtividade do que em 
 # Projetos pessoais
 
 <p align="center">
-  <img src="./assets/banner_pipeline.png" width="100%" />
+  <img src="./assets/pipeline.png" width="100%" />
 </p>
 
 ## Toug's Pipeline I.A
@@ -137,7 +133,7 @@ Ela virou basicamente meu sistema operacional de desenvolvimento com IA.
 ---
 
 <p align="center">
-  <img src="./assets/banner_animedle.png" width="100%" />
+  <img src="./assets/animedle.png" width="100%" />
 </p>
 
 ## AnimedleBR
